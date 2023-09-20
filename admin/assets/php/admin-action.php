@@ -223,8 +223,8 @@ if(isset($_POST['action']) && $_POST['action'] == 'fetchAllNotes'){
      $output .= '<table class="table table-striped table-bordered text-center">
                      <thead>
                          <tr>
-                             <th>FID/th>
-                             <th>UID/th>
+                             <th>FID</th>
+                             <th>UID</th>
                              <th>User Name</th>
                              <th>User E-Mail</th>
                              <th>Subject</th>
