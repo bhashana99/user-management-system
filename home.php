@@ -232,7 +232,7 @@ require_once 'assets/php/header.php';
           });
          
         }
-      })
+      });
     });
     
     //Display Note Of An User in Details Ajax Request
