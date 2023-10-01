@@ -12,7 +12,6 @@ require 'vendor/autoload.php';
 $mail = new PHPMailer(true);
 
 //handle Add New Note Ajax Request
-
 if(isset($_POST['action']) && $_POST['action'] == 'add_note'){
    // print_r($_POST);
     $title = $cuser->test_input($_POST['title']);

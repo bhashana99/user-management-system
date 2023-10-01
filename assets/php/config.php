@@ -3,7 +3,7 @@
 class Database{
 
     const USERNAME = 'bhashanachamodya99@gmail.com';
-    const PASSWORD = 'rcczekxugnlhyemc';
+    const PASSWORD = '';
 
     //$dsn = data source network
     private $dsn = "mysql:host=localhost;port=3307;dbname=db_user_system";

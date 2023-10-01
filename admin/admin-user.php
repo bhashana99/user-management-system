@@ -59,8 +59,7 @@ require_once 'assets/php/admin-header.php';
 </div>
         </div>
     </div>
-</body>
-</html>
+
 
 <script src="https://cdn.datatables.net/v/bs4/dt-1.13.6/datatables.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
@@ -166,4 +165,6 @@ require_once 'assets/php/admin-header.php';
     });
 </script>
 
+</body>
+</html>
 
